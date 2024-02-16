@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "ES2016", // or your preferred ECMAScript version
+    "lib": ["dom", "es2015"] // include 'dom' and other necessary libraries
+  }
+}
